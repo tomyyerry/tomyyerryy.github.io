@@ -1,0 +1,76 @@
+h1 {
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, seriffont-weight: 50px;
+    text-align: center;
+    background-color:lightgoldenrodyellow;
+    padding: 0px;
+    margin:0.1px;
+
+}
+
+
+h5 {
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+h2 {
+    font-size: 20px;
+    
+
+
+}
+
+
+h6 {
+    font-size: 10px;
+
+}
+.agrupar {
+    background-color:beige ;
+    border: 2px solid black;
+    width: 800px;
+    padding: 2px;
+    float:right;
+    
+
+}
+header,footer,aside, body{
+    display: blcok;
+    background-color:antiquewhite
+    
+}
+
+
+.head {left: ;;
+    border: 2px;
+}
+
+
+.seccion {
+    width: 300%;
+    margin: 40px;
+    float:left
+}
+
+.aside {
+    widht: 50%;
+    float:right;
+}
+
+
+.menu li{
+    font-family
+    font-size:
+
+}
+
+
+
+.article {
+    font-size: 20px;
+    padding: 20px;
+    
+
+
+}
